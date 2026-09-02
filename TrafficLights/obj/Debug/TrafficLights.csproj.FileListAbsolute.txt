@@ -1,0 +1,11 @@
+D:\VSProjects\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+D:\VSProjects\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+D:\VSProjects\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.AssemblyReference.cache
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.ctrlTraficLight.resources
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.cache
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.CoreCompileInputs.cache
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb
+D:\VSProjects\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
